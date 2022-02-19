@@ -1,0 +1,17 @@
+C:\Users\pudim\source\repos\Forms 1\Forms 1\bin\Debug\net6.0-windows\Forms 1.exe
+C:\Users\pudim\source\repos\Forms 1\Forms 1\bin\Debug\net6.0-windows\Forms 1.deps.json
+C:\Users\pudim\source\repos\Forms 1\Forms 1\bin\Debug\net6.0-windows\Forms 1.runtimeconfig.json
+C:\Users\pudim\source\repos\Forms 1\Forms 1\bin\Debug\net6.0-windows\Forms 1.dll
+C:\Users\pudim\source\repos\Forms 1\Forms 1\bin\Debug\net6.0-windows\Forms 1.pdb
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.csproj.AssemblyReference.cache
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms_1.Form1.resources
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.csproj.GenerateResource.cache
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.AssemblyInfoInputs.cache
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.AssemblyInfo.cs
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.csproj.CoreCompileInputs.cache
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.dll
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\refint\Forms 1.dll
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.pdb
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\Forms 1.genruntimeconfig.cache
+C:\Users\pudim\source\repos\Forms 1\Forms 1\obj\Debug\net6.0-windows\ref\Forms 1.dll
