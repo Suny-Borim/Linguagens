@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Banco Suny/1.0.0": {
+        "runtime": {
+          "Banco Suny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banco Suny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
