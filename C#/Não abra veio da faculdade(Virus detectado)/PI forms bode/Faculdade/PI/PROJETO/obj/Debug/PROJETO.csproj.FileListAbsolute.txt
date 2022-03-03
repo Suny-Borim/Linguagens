@@ -1,0 +1,14 @@
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\bin\Debug\PROJETO.exe.config
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\bin\Debug\PROJETO.exe
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\bin\Debug\PROJETO.pdb
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\bin\Debug\BodeOfWarServer.dll
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\bin\Debug\BodeOfWarServer.xml
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.csproj.AssemblyReference.cache
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.form1.resources
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.Properties.Resources.resources
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.csproj.GenerateResource.cache
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.csproj.CopyComplete
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.exe
+C:\Users\pedro.hbfernandes1\source\repos\PROJETO\PROJETO\obj\Debug\PROJETO.pdb
