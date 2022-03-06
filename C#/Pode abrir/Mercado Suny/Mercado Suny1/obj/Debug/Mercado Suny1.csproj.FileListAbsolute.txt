@@ -1,0 +1,11 @@
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\bin\Debug\Mercado Suny1.exe.config
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\bin\Debug\Mercado Suny1.exe
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\bin\Debug\Mercado Suny1.pdb
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado Suny1.csproj.AssemblyReference.cache
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado Suny1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado_Suny1.Form1.resources
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado_Suny1.Properties.Resources.resources
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado Suny1.csproj.GenerateResource.cache
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado Suny1.csproj.CoreCompileInputs.cache
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado Suny1.exe
+C:\Users\pudim\source\repos\Mercado Suny1\Mercado Suny1\obj\Debug\Mercado Suny1.pdb

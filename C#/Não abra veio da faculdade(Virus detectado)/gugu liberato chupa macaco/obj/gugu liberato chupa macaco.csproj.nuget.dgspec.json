@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.hbfernandes1\\source\\repos\\gugu liberato chupa macaco\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj": {}
+    "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Não abra veio da faculdade(Virus detectado)\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.hbfernandes1\\source\\repos\\gugu liberato chupa macaco\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj": {
+    "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Não abra veio da faculdade(Virus detectado)\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.hbfernandes1\\source\\repos\\gugu liberato chupa macaco\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj",
+        "projectUniqueName": "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Não abra veio da faculdade(Virus detectado)\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj",
         "projectName": "gugu liberato chupa macaco",
-        "projectPath": "C:\\Users\\pedro.hbfernandes1\\source\\repos\\gugu liberato chupa macaco\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj",
-        "packagesPath": "C:\\Users\\pedro.hbfernandes1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.hbfernandes1\\source\\repos\\gugu liberato chupa macaco\\gugu liberato chupa macaco\\obj\\",
+        "projectPath": "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Não abra veio da faculdade(Virus detectado)\\gugu liberato chupa macaco\\gugu liberato chupa macaco.csproj",
+        "packagesPath": "C:\\Users\\pudim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Não abra veio da faculdade(Virus detectado)\\gugu liberato chupa macaco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro.hbfernandes1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pudim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

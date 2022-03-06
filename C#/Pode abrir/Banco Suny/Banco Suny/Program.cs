@@ -12,13 +12,13 @@ namespace Banco_Suny
         {
             Cliente Suny = new Cliente("Suny", "23", "Dom quixote");
             Cliente Nicolly = new Cliente("Nicolly", "23", "Dom quixote");
-            Conta carinha = new Conta(0123, 0,  Suny);
-            Conta carinha2 = new Conta(0123, 0, Nicolly);
+            Conta SunyC = new Conta(0123, 3500,  Suny);
+            Conta NicollyC = new Conta(0123, 50, Nicolly);
 
-            carinha2.saque(100f);
-            carinha.transferir(carinha2, 100f);
-            carinha.exibir(Suny);
-            carinha2.exibir(Nicolly);
+            NicollyC.saque(20f);
+            SunyC.transferir(NicollyC, 100f);
+            SunyC.exibir(Suny);
+            NicollyC.exibir(Nicolly);
             Console.ReadLine();
 
         }

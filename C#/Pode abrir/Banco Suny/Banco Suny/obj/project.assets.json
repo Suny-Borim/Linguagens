@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pudim\\source\\repos\\Banco Suny\\Banco Suny\\Banco Suny.csproj",
+      "projectUniqueName": "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Pode abrir\\Banco Suny\\Banco Suny\\Banco Suny.csproj",
       "projectName": "Banco Suny",
-      "projectPath": "C:\\Users\\pudim\\source\\repos\\Banco Suny\\Banco Suny\\Banco Suny.csproj",
+      "projectPath": "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Pode abrir\\Banco Suny\\Banco Suny\\Banco Suny.csproj",
       "packagesPath": "C:\\Users\\pudim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pudim\\source\\repos\\Banco Suny\\Banco Suny\\obj\\",
+      "outputPath": "C:\\Users\\pudim\\Desktop\\Linguagens\\Linguagens\\C#\\Pode abrir\\Banco Suny\\Banco Suny\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pudim\\AppData\\Roaming\\NuGet\\NuGet.Config",

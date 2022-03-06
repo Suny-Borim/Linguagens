@@ -13,3 +13,18 @@ C:\Users\pudim\source\repos\Banco Suny\Banco Suny\obj\Debug\net6.0\refint\Banco 
 C:\Users\pudim\source\repos\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.pdb
 C:\Users\pudim\source\repos\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.genruntimeconfig.cache
 C:\Users\pudim\source\repos\Banco Suny\Banco Suny\obj\Debug\net6.0\ref\Banco Suny.dll
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.csproj.AssemblyReference.cache
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.AssemblyInfoInputs.cache
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.AssemblyInfo.cs
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.csproj.CoreCompileInputs.cache
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.dll
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\refint\Banco Suny.dll
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.pdb
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\bin\Debug\net6.0\Banco Suny.exe
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\bin\Debug\net6.0\Banco Suny.deps.json
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\bin\Debug\net6.0\Banco Suny.runtimeconfig.json
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\bin\Debug\net6.0\Banco Suny.dll
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\bin\Debug\net6.0\Banco Suny.pdb
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\Banco Suny.genruntimeconfig.cache
+C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny\Banco Suny\obj\Debug\net6.0\ref\Banco Suny.dll

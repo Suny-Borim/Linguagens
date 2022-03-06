@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Pode abrir\Banco Suny.cs" Link="Banco Suny.cs" />
-  </ItemGroup>
-
 </Project>
