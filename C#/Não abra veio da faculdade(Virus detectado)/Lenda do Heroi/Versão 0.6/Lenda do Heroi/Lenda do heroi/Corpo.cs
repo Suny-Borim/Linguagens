@@ -1,19 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Lenda_do_heroi
+﻿namespace Lenda_do_heroi
 {
     internal class Corpo
     {
         public string cabeca;
         public string torso;
-        public string maos;
+        public bool maos;
         public string pernas;
-        public  string pes;
-        public Corpo(string cabeca,string torso, string maos, string pernas, string pes)
+        public string pes;
+        public Armas arma;
+
+        public Corpo(string cabeca, string torso, bool maos, string pernas, string pes)
         {
             this.cabeca = cabeca;
             this.torso = torso;

@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Lenda_do_heroi
+﻿namespace Lenda_do_heroi
 
 {
-    internal class Status 
+    internal class Status
     {
         private float vida;
         public int mana;
@@ -15,7 +9,6 @@ namespace Lenda_do_heroi
         public int defesa;
         public int agilidade;
         public int sorte;
-      
 
         public Status(float vida, int mana, float forca, int defesa, int agilidade, int sorte)
         {
@@ -29,12 +22,12 @@ namespace Lenda_do_heroi
 
         public float getVida()
         {
-            return this.vida; 
+            return this.vida;
         }
         public void setVida(float vida)
         {
             this.vida = vida;
         }
- 
+
     }
 }

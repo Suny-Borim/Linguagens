@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Lenda_do_heroi.Arma;
 namespace Lenda_do_heroi
 {
     internal class Program
@@ -11,6 +6,8 @@ namespace Lenda_do_heroi
         static void Main(string[] args)
         {
             bool Guerreira, Arqueira, Maga;
+            Atributos BrokenSwordStatus = new Atributos(0, 10, 0, 0, 30);
+            Armas BrokenSword = new Armas("BrokenSword", BrokenSwordStatus);
             Console.WriteLine("Welcome challenger!\nChoose your class!:\n1-Guerreiro\n2-Mago\n");
             int escolha = (Int32.Parse(Console.ReadLine()));
             switch (escolha)
@@ -20,7 +17,12 @@ namespace Lenda_do_heroi
                     string nome = Console.ReadLine();
                     Guerreiro Suny = new Guerreiro(nome, 18);
                     Suny.MostraStatus();
-                    
+                    Suny.mostarCorpo();
+                    Suny.equiparArma(BrokenSword);
+                    Suny.MostraStatus();
+                    Suny.Desequipar(BrokenSword);
+                    Suny.MostraStatus();
+
                     Goblin goblin1 = new Goblin(1);
 
                     float dano = Suny.ataque();
@@ -30,7 +32,7 @@ namespace Lenda_do_heroi
                     Console.ReadLine();
                     break;
             }
-           
+
         }
     }
 }

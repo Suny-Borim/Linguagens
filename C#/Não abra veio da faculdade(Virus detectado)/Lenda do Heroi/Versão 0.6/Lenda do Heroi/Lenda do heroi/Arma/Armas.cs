@@ -1,19 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-namespace Lenda_do_heroi.Arma
+﻿namespace Lenda_do_heroi
 {
     internal class Armas
     {
         private string nome { get; set; }
         public Atributos atributos;
 
-        
-        public Armas(string nome,Atributos atributos)
+        public Armas(string nome, Atributos atributos)
         {
             this.nome = nome;
             this.atributos = atributos;

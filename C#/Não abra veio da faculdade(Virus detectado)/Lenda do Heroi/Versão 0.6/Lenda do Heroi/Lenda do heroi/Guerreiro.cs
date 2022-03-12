@@ -17,5 +17,7 @@ namespace Lenda_do_heroi
             this.setStatus(statusG);
         }
        
+ 
+      
     }
 }

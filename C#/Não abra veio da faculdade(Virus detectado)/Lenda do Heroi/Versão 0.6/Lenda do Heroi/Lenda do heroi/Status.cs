@@ -5,11 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lenda_do_heroi
-
 {
     internal class Status 
     {
-        private float vida;
+        public float vida;
         public int mana;
         public float forca;
         public int defesa;
@@ -25,15 +24,6 @@ namespace Lenda_do_heroi
             this.defesa = defesa;
             this.agilidade = agilidade;
             this.sorte = sorte;
-        }
-
-        public float getVida()
-        {
-            return this.vida; 
-        }
-        public void setVida(float vida)
-        {
-            this.vida = vida;
         }
  
     }
