@@ -12,8 +12,7 @@ namespace Lenda_do_heroi.Arma
         private string nome { get; set; }
         public Atributos atributos;
 
-        
-        public Armas(string nome,Atributos atributos)
+        public Armas(string nome, Atributos atributos)
         {
             this.nome = nome;
             this.atributos = atributos;

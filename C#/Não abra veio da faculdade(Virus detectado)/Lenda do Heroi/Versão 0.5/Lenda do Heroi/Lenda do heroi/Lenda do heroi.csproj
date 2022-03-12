@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Arma\Armas.cs" />
     <Compile Include="Arma\Atributos.cs" />
+    <Compile Include="Corpo.cs" />
     <Compile Include="Monstros\Classes\Goblin.cs" />
     <Compile Include="Heroi\Classes\Guerreiro.cs" />
     <Compile Include="Heroi\Heroi.cs" />

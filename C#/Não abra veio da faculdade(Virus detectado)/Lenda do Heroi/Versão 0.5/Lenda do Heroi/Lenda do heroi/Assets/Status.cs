@@ -15,8 +15,7 @@ namespace Lenda_do_heroi
         public int defesa;
         public int agilidade;
         public int sorte;
-      
-
+  
         public Status(float vida, int mana, float forca, int defesa, int agilidade, int sorte)
         {
             this.vida = vida;

@@ -11,6 +11,8 @@ namespace Lenda_do_heroi
         static void Main(string[] args)
         {
             bool Guerreira, Arqueira, Maga;
+            Atributos BrokenSwordStatus = new Atributos(0,10,0,0,30);
+            Armas BrokenSword = new Armas("BrokenSword", BrokenSwordStatus);
             Console.WriteLine("Welcome challenger!\nChoose your class!:\n1-Guerreiro\n2-Mago\n");
             int escolha = (Int32.Parse(Console.ReadLine()));
             switch (escolha)
