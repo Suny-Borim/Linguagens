@@ -36,6 +36,12 @@ namespace Lenda_do_heroi
         {
             this.status = status;
         }
+        public float ataque()
+        {
+            float dano = (this.status.forca + this.status.agilidade) * 1 + (new Random(DateTime.Now.Millisecond).Next(0, this.status.agilidade));
+            Console.WriteLine("{0}", dano);
+            return dano;
+        }
         public int defesa()
         {
             return (this.status.defesa + this.status.agilidade) + (1 + new Random(DateTime.Now.Millisecond).Next(0, this.status.sorte));

@@ -7,7 +7,7 @@ namespace Lenda_do_heroi
         {
             bool Guerreira, Arqueira, Maga;
             Atributos BrokenSwordStatus = new Atributos(0, 10, 0, 0, 30);
-            Armas BrokenSword = new Armas("BrokenSword", BrokenSwordStatus);
+            Armas BrokenSword = new Armas("BrokenSword", BrokenSwordStatus,"Mago");
             Console.WriteLine("Welcome challenger!\nChoose your class!:\n1-Warrior\n2-Archer\n");
             int escolha = (Int32.Parse(Console.ReadLine()));
             switch (escolha)
@@ -31,11 +31,21 @@ namespace Lenda_do_heroi
                     Console.ReadLine();
                     break;
                 case 2:
-                    Console.WriteLine("Qual seu nome Guerreira?\n");
+                    Console.WriteLine("Qual seu nome Arqueira?\n");
                     string ArcherName = Console.ReadLine();
 
                     Arqueiro Archer = new Arqueiro(ArcherName, 18,100);
                     Archer.MostraStatus();
+                    Console.ReadLine();
+
+                    Goblin goblin2 = new Goblin(1);
+
+                    float danoArcher = Archer.ataque();
+
+                    goblin2.recebeDano(danoArcher);
+                    goblin2.MostraStatus();
+                    Archer.MostraStatus();
+
                     Console.ReadLine();
                     break;
 

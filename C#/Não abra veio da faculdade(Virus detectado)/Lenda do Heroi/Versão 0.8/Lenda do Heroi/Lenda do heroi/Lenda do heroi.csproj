@@ -45,13 +45,16 @@
   <ItemGroup>
     <Compile Include="Arma\Armas.cs" />
     <Compile Include="Arma\Atributos.cs" />
-    <Compile Include="Arqueiro.cs" />
-    <Compile Include="Corpo.cs" />
+    <Compile Include="Dragão.cs" />
+    <Compile Include="Heroi\Classes\Arqueiro.cs" />
+    <Compile Include="Heroi\Corpo.cs" />
+    <Compile Include="Mago.cs" />
     <Compile Include="Monstros\Classes\Goblin.cs" />
     <Compile Include="Heroi\Classes\Guerreiro.cs" />
     <Compile Include="Heroi\Heroi.cs" />
     <Compile Include="Monstros\Classes\Monstro.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Properties\Aranha.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Assets\Status.cs" />
   </ItemGroup>
