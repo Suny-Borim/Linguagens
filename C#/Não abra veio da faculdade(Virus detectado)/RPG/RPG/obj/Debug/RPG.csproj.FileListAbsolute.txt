@@ -1,8 +1,0 @@
-E:\RPG\RPG\bin\Debug\RPG.exe.config
-E:\RPG\RPG\bin\Debug\RPG.exe
-E:\RPG\RPG\bin\Debug\RPG.pdb
-E:\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
-E:\RPG\RPG\obj\Debug\RPG.csproj.SuggestedBindingRedirects.cache
-E:\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
-E:\RPG\RPG\obj\Debug\RPG.exe
-E:\RPG\RPG\obj\Debug\RPG.pdb
