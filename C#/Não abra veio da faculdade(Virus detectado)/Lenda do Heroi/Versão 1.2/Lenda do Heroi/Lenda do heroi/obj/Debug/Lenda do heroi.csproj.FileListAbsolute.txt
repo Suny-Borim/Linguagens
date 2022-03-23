@@ -94,3 +94,11 @@ C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Não abra veio da faculdade(Viru
 C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Não abra veio da faculdade(Virus detectado)\Lenda do Heroi\Versão 1.1\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.csproj.CoreCompileInputs.cache
 C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Não abra veio da faculdade(Virus detectado)\Lenda do Heroi\Versão 1.1\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.exe
 C:\Users\pudim\Desktop\Linguagens\Linguagens\C#\Não abra veio da faculdade(Virus detectado)\Lenda do Heroi\Versão 1.1\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.pdb
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\bin\Debug\Lenda do heroi.exe.config
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\bin\Debug\Lenda do heroi.exe
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\bin\Debug\Lenda do heroi.pdb
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.csproj.AssemblyReference.cache
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.csproj.SuggestedBindingRedirects.cache
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.csproj.CoreCompileInputs.cache
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.exe
+D:\Feito na facul\C#\Lenda do Heroi\Versão 1.2\Lenda do Heroi\Lenda do heroi\obj\Debug\Lenda do heroi.pdb

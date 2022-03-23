@@ -169,19 +169,20 @@ namespace Lenda_do_heroi
         }
         public void mostarCorpo()
         {
+       
             Console.WriteLine($"\n======{this.nome}======\n{this.corpo.cabeca} {this.corpo.cabecaarmadura.getItemNome()}\n{this.corpo.torso}\n" +
                 $"{this.corpo.maos} {this.arma.getItemNome()}\n{this.corpo.pernas}\n{this.corpo.pes}\n================\n");
         }
         public void MostraStatus()
         {
-            Console.WriteLine($"\n======{this.getNome()}======\nClasse: {this.getClasse()} Lv{this.getLv()}Xp:{this.xp}/{this.xpMax}\nVida:{this.status.getVida()}/{this.status.getVidaMaxima()}\nMana:{this.status.mana}/{this.status.manamaxima}\nForça:{this.status.forca}\nDefesa:{this.status.defesa}\nAgilidade:{this.status.agilidade}\nSorte:{this.status.sorte}\n================\n");
+            Console.WriteLine($"\n======{this.getNome()}======\nClasse:{this.getClasse()} Lv{this.getLv()} Xp:{this.xp}/{this.xpMax}\nVida:{this.status.getVida()}/{this.status.getVidaMaxima()}\nMana:{this.status.mana}/{this.status.manamaxima}\nForça:{this.status.forca}\nDefesa:{this.status.defesa}\nAgilidade:{this.status.agilidade}\nSorte:{this.status.sorte}\n================\n");
         }
         public void LevelUP()
         {
             if(this.xp >= this.xpMax)
             {
                 this.setLv(this.getLv() + 1);
-                this.xpMax = this.xpMax + this.xpMax * (1 / 2);
+                this.setXpMaximo(this.getXpMaximo() + this.getXpMaximo() * 0.1f);
                 this.xp = 0;
                 this.colocarPontos();
             }

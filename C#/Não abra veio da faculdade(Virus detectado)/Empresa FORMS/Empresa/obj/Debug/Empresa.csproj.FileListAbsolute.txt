@@ -1,0 +1,12 @@
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.Form1.resources
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.Properties.Resources.resources
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.GenerateResource.cache
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb
+C:\Users\pedro.hbfernandes1\source\repos\Empresa\Empresa\obj\Debug\Empresa.formAdm.resources
