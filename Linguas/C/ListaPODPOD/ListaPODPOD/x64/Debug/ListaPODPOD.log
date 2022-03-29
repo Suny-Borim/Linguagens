@@ -1,0 +1,4 @@
+﻿  ListaPODPOD.c
+C:\Users\pedro.hbfernandes1\source\repos\ListaPODPOD\ListaPODPOD\ListaPODPOD.c(63,15): warning C4098: 'imprimeRecursiva': função 'void' retornando um valor
+C:\Users\pedro.hbfernandes1\source\repos\ListaPODPOD\ListaPODPOD\ListaPODPOD.c(57,6): warning C4101: 'i': variável local não referenciada
+  ListaPODPOD.vcxproj -> C:\Users\pedro.hbfernandes1\source\repos\ListaPODPOD\x64\Debug\ListaPODPOD.exe
