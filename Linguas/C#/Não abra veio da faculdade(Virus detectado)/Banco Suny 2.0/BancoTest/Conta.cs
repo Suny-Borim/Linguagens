@@ -14,7 +14,7 @@ namespace BancoTest
         public string PIX;
         public double saldo;
         public Usuario usuario;
-        List<string> extrato;
+        public List<string> extrato;
         public Conta(string titular, string agencia, string senha , string pix, Usuario usuario)
         {
             this.titular = titular;
@@ -55,11 +55,11 @@ namespace BancoTest
         }
         public bool transferir(Conta conta,double valor)
         {
-            if(valor > 0 && this.saldo <= valor)
+            if (valor > 0 && this.saldo >= valor)
             {
                 conta.receber(valor);
                 this.transferirvalor(valor);
-                this.log($"Valor transferido entre contas do mesmmo banco no valor de R${valor} para {conta.titular}");
+                this.log($"Valor transferido entre contas do mesmo banco no valor de R${valor} para {conta.titular}");
                 return true;
             }
             return false;
@@ -71,7 +71,7 @@ namespace BancoTest
         }
         public void transferirvalor(double valor)
         {
-            this.saldo -= valor;
+            this.saldo = this.saldo - valor;
         }
     }
 }

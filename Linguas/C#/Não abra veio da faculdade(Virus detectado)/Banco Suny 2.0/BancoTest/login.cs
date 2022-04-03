@@ -13,11 +13,10 @@ namespace BancoTest
     public partial class login : Form
     {
         List<Conta> ListaDecontas { get; set; }
-        public login()
+        public login(List<Conta> lista)
         {
             InitializeComponent();
-            this.ListaDecontas = new List<Conta>();
-            this.ListaDecontas.Add(new Conta("Suny", "0123", "123456", "123", new Usuario("Suny", "1")));
+            this.ListaDecontas = lista;
         }
 
         private void login_Load(object sender, EventArgs e)
@@ -25,11 +24,11 @@ namespace BancoTest
         }
         private void bttEntrar_Click(object sender, EventArgs e)
         {
-            foreach (Conta conta in ListaDecontas)
+            foreach (Conta conta in this.ListaDecontas)
             {
                 if (txtCPF.Text == conta.usuario.cpf && conta.senhacerta(txtsenha.Text))
                 {
-                    ContaAtual contaatual = new ContaAtual(conta);
+                    ContaAtual contaatual = new ContaAtual(conta,this.ListaDecontas);
                     this.Close();
                     contaatual.ShowDialog();
                 }
