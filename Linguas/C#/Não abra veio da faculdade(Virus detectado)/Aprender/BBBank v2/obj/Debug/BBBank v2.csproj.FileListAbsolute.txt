@@ -1,0 +1,15 @@
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\bin\Debug\BBBank v2.exe.config
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\bin\Debug\BBBank v2.exe
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\bin\Debug\BBBank v2.pdb
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank v2.csproj.AssemblyReference.cache
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank_v2.Properties.Resources.resources
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank v2.csproj.GenerateResource.cache
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank v2.csproj.CoreCompileInputs.cache
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank v2.exe
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank v2.pdb
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank_v2.frmLogin.resources
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank_v2.frmPrincipal.resources
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank_v2.frmDeposito.resources
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank_v2.frmSaque.resources
+C:\Users\thyago.cquintas\source\repos\BBBank v2\BBBank v2\obj\Debug\BBBank_v2.frmTransferencia.resources
